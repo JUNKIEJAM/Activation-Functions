@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import numpy as np
+
 import cmath
 def integration(x):
     a=np.exp(x)
